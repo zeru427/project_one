@@ -1,0 +1,106 @@
+2022-05-28_15:59:37.578 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item
+2022-05-28_15:59:37.579 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-28_15:59:37.579 [http-nio-8084-exec-1] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-28_15:59:37.579 [http-nio-8084-exec-1] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-28_15:59:37.648 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-28_16:16:17.983 [http-nio-8084-exec-5] INFO  c.r.pms.controller.ItemController - save item
+2022-05-28_16:16:17.984 [http-nio-8084-exec-5] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-28_16:16:17.984 [http-nio-8084-exec-5] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-28_16:16:17.984 [http-nio-8084-exec-5] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-28_16:16:17.988 [http-nio-8084-exec-5] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-28_16:18:15.160 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item
+2022-05-28_16:18:15.161 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-28_16:18:15.161 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-28_16:18:15.161 [http-nio-8084-exec-2] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-28_16:18:15.228 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-29_13:50:43.389 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item
+2022-05-29_13:50:43.390 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-29_13:50:43.390 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-29_13:50:43.390 [http-nio-8084-exec-2] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-29_13:50:43.467 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-29_14:00:35.943 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item
+2022-05-29_14:00:35.944 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-29_14:00:35.944 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-29_14:00:35.944 [http-nio-8084-exec-2] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-29_14:00:36.024 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-29_14:06:51.118 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item
+2022-05-29_14:06:51.119 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-29_14:06:51.119 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-29_14:06:51.119 [http-nio-8084-exec-2] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-29_14:06:51.192 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-29_14:13:29.771 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item
+2022-05-29_14:13:29.771 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-29_14:13:29.772 [http-nio-8084-exec-1] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-29_14:13:29.772 [http-nio-8084-exec-1] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-29_14:13:29.850 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-29_14:15:58.639 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item
+2022-05-29_14:15:58.639 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-29_14:15:58.639 [http-nio-8084-exec-1] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-29_14:15:58.639 [http-nio-8084-exec-1] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-29_14:17:54.888 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item
+2022-05-29_14:17:54.889 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-29_14:17:54.889 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-29_14:17:54.889 [http-nio-8084-exec-2] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-29_14:19:34.220 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item
+2022-05-29_14:19:34.220 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-29_14:19:34.220 [http-nio-8084-exec-1] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-29_14:19:34.220 [http-nio-8084-exec-1] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-29_14:22:02.972 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item
+2022-05-29_14:22:02.973 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-29_14:22:02.973 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-29_14:22:02.973 [http-nio-8084-exec-2] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_00:50:28.343 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item
+2022-05-30_00:50:28.343 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-30_00:50:28.343 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-30_00:50:28.343 [http-nio-8084-exec-2] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_00:52:40.997 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item
+2022-05-30_00:52:40.998 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-30_00:52:40.998 [http-nio-8084-exec-1] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-30_00:52:40.998 [http-nio-8084-exec-1] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_00:52:41.078 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-30_01:25:27.256 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item
+2022-05-30_01:25:27.256 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-30_01:25:27.256 [http-nio-8084-exec-1] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-30_01:25:27.256 [http-nio-8084-exec-1] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_01:25:27.327 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-30_01:27:21.672 [http-nio-8084-exec-6] INFO  c.r.pms.controller.ItemController - save item
+2022-05-30_01:27:21.672 [http-nio-8084-exec-6] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-30_01:27:21.672 [http-nio-8084-exec-6] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-30_01:27:21.672 [http-nio-8084-exec-6] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_01:27:39.004 [http-nio-8084-exec-8] INFO  c.r.pms.controller.ItemController - save item
+2022-05-30_01:27:39.004 [http-nio-8084-exec-8] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-30_01:27:39.004 [http-nio-8084-exec-8] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-30_01:27:39.004 [http-nio-8084-exec-8] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_01:28:41.821 [http-nio-8084-exec-10] INFO  c.r.pms.controller.ItemController - save item
+2022-05-30_01:28:41.821 [http-nio-8084-exec-10] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-30_01:28:41.821 [http-nio-8084-exec-10] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-30_01:28:41.821 [http-nio-8084-exec-10] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_01:28:41.838 [http-nio-8084-exec-10] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-30_01:28:49.256 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item
+2022-05-30_01:28:49.256 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-30_01:28:49.256 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-30_01:28:49.256 [http-nio-8084-exec-2] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_01:28:49.260 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-30_01:34:35.451 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item
+2022-05-30_01:34:35.451 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-30_01:34:35.451 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-30_01:34:35.451 [http-nio-8084-exec-2] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_01:34:35.467 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-30_01:38:31.680 [http-nio-8084-exec-6] INFO  c.r.pms.controller.ItemController - Item(itemId=11, itemName=superman, itemPrice=100.0, qoh=10)
+2022-05-30_01:38:31.681 [http-nio-8084-exec-6] INFO  c.r.pms.controller.ItemController - Item(itemId=21, itemName=superman, itemPrice=100.0, qoh=10)
+2022-05-30_01:38:31.681 [http-nio-8084-exec-6] INFO  c.r.pms.controller.ItemController - Item(itemId=22, itemName=superman, itemPrice=100.0, qoh=10)
+2022-05-30_09:31:34.239 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item
+2022-05-30_09:31:34.239 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - INFO - Save product started the execution
+2022-05-30_09:31:34.239 [http-nio-8084-exec-1] WARN  c.r.pms.controller.ItemController - WARN - Save product started the execution
+2022-05-30_09:31:34.239 [http-nio-8084-exec-1] ERROR c.r.pms.controller.ItemController - ERROR - Save product started the execution
+2022-05-30_09:31:34.338 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - save item successfully
+2022-05-30_10:23:30.617 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - Is logger save post
+2022-05-30_10:23:30.777 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - Item with item id :22already exists
+2022-05-30_10:23:38.528 [http-nio-8084-exec-3] WARN  c.r.pms.controller.ItemController - Is logger save post
+2022-05-30_10:23:38.577 [http-nio-8084-exec-3] INFO  c.r.pms.controller.ItemController - Item with item id :12 saved successfully
+2022-05-30_10:34:20.149 [http-nio-8084-exec-2] WARN  c.r.pms.controller.ItemController - Is logger save post
+2022-05-30_10:34:20.320 [http-nio-8084-exec-2] INFO  c.r.pms.controller.ItemController - Item with item id :33 saved successfully
+2022-05-30_10:50:24.485 [http-nio-8084-exec-3] WARN  c.r.pms.controller.ItemController - Is logger save post
+2022-05-30_10:50:24.662 [http-nio-8084-exec-3] INFO  c.r.pms.controller.ItemController - Item with item id :31 saved successfully
+2022-05-30_11:45:43.312 [http-nio-8084-exec-1] INFO  c.r.pms.controller.ItemController - Item with item id :34 saved successfully
+2022-05-30_12:03:16.369 [http-nio-8084-exec-9] INFO  c.r.pms.controller.ItemController - Item with item id :35 saved successfully
